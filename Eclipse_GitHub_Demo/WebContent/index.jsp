@@ -23,6 +23,7 @@
 	<table border=1>
 		<tr>
 			<td>Karen A.</td>
+			<td>Christina T.</td>
 		</tr>
 	</table>
 </body>
