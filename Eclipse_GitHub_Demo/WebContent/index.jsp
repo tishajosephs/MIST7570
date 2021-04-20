@@ -25,6 +25,7 @@
 			<td>Karen A.</td>
 			<td>Christina T.</td>
 			<td>Sam W.</td>
+			<td>Akaash S.</td>
 		</tr>
 	</table>
 </body>
