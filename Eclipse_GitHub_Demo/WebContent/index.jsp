@@ -28,6 +28,7 @@
 			<td>Akaash S.</td>
 			<td>Rayianna D.</td>
 			<td> Chadwick H. </td>
+			<td>Brandon R.</td>
 		</tr>
     <tr>
 			<td>Sam P.</td>
