@@ -23,6 +23,11 @@
 	<table border=1>
 		<tr>
 			<td>Karen A.</td>
+			<td>Christina T.</td>
+			<td>Sam W.</td>
+			<td>Akaash S.</td>
+			<td>Gary L.</td>
+			
 		</tr>
 		<tr>
 			<td>Vijay Kushwaha</td>
